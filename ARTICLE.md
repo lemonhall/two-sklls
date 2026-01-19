@@ -229,7 +229,7 @@ two-sklls/
 
 > 我们不是在寻找最强的模型，而是在设计能让每个模型发挥所长的系统。
 
-项目地址：`e:\development\two-sklls`
+项目地址：https://github.com/lemonhall/two-sklls
 
 有任何想法或建议，欢迎讨论！
 
